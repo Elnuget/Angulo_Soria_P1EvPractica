@@ -28,7 +28,7 @@ public class Ventana extends JFrame {
         setTitle("Sistema de Gestión de Tareas - Angulo_Soria");
         setContentPane(principal);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(750, 600);
+        setSize(1020, 600);
         setLocationRelativeTo(null);
         
         // Configurar componentes iniciales
